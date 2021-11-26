@@ -124,17 +124,15 @@ nav a i {
 
 .end-meeting {
     height: 100%;
-    flex-basis: 10%;
-    position: relative;
 }
 
 .end-meeting-button {
     background-color: #4A4A4A;
     color: #DB2128;
-    position: absolute;
-    top: 0;
-    bottom: 0;
-    right: 0;
-    left: 0;
+    width: 100%;
+    height: 100%;
+    line-height: 80px;
+    text-align: center;
     border: none;
+    padding: 0 20px;
 }
