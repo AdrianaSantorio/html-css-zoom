@@ -30,10 +30,24 @@ body {
 
 /* HEADER */
 
-
-
-
+header {
+    height: 75px;
+    background-color: blue;
+    text-align: right;
+}
 
 /* MAIN */
 
+.meeting-screen {
+    height: calc( 100vh - 155px);
+    background-color: red;
+
+}
+
 /* FOOTER */
+
+footer {
+    height: 80px;
+    background-color: chartreuse;
+
+}
