@@ -15,6 +15,25 @@ img {
 body {
     color: white;
     background-color: black;
+    font-family: 'Lato', sans-serif;
 }
 
 /* Utilities */
+
+.clearfix::after {
+    display: table;
+    content: '';
+    clear: both;
+}
+
+/* BODY */
+
+/* HEADER */
+
+
+
+
+
+/* MAIN */
+
+/* FOOTER */
