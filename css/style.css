@@ -79,6 +79,8 @@ header button {
     overflow: auto;
 }
 
+/* cards */
+
 .card {
     min-width: 13%;
     padding: 4px;
@@ -130,6 +132,7 @@ nav li {
     display: flex;
     align-content: baseline;
 }
+
 nav a {
     color: white;
     display: inline-flex;
@@ -171,7 +174,6 @@ nav a i {
 .end-meeting-button {
     background-color: #4A4A4A;
     color: #DB2128;
-    width: 100%;
     height: 100%;
     line-height: 80px;
     text-align: center;
