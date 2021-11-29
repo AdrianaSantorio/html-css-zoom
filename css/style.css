@@ -112,6 +112,7 @@ footer {
     background-color: #222222;   
 }
 
+/* non so se questo sia effettivamente un nav */
 nav {
     height: 100%;
     display: flex;
@@ -179,6 +180,7 @@ nav li:hover a {
 
 .end-meeting {
     height: 100%;
+    /* o align-self stretch!*/
 }
 
 .end-meeting-button {
